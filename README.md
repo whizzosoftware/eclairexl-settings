@@ -1,0 +1,1 @@
+Run makesettings.c and put one of the resulting files renamed to "settings" in the atari800/roms directory of the SD card.
